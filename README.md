@@ -12,4 +12,4 @@ the aim of this project is being attractive, functional and readable.
 
 <h3> The screen of the project</h3>
 
-![](veterinary-clinic.gif)
+![](veterinary-clinic1.gif)
